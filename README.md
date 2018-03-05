@@ -11,4 +11,4 @@ At the end it creates the branch for the new contribution.
 
 ## Example
 
-`$ ./preparePharo.sh -t $20258_Fix_to_make_recursive_links_work -l /home/badetitou/git/pharo`
+`$ ./preparePharo.sh -t 20258_Fix_to_make_recursive_links_work -l /home/badetitou/git/pharo`
