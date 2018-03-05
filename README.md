@@ -7,7 +7,7 @@ At the end it creates the branch for the new contribution.
 
 ## How to use
 
-`$ ./preparePharo.sh -t $THE_ERROR_TAG -l $PATH_TO_YOUR_PHARO_REPOSITORY`
+`$ ./preparePharo.sh -t THE_ERROR_TAG -l PATH_TO_YOUR_PHARO_REPOSITORY`
 
 ## Example
 
