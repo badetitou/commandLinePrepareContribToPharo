@@ -3,7 +3,7 @@
 This script downloads the last Pharo7 image.
 Then it updates your pharo repository.
 And it adds to Iceberg (inside Pharo) the repository.
-At the end it create the branch for the new contribution.
+At the end it creates the branch for the new contribution.
 
 ## How to use
 
